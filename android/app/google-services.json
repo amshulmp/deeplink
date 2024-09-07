@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667280572945",
+    "project_id": "amshuldeeplink",
+    "storage_bucket": "amshuldeeplink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667280572945:android:49b4fda6993010f02d27b0",
+        "android_client_info": {
+          "package_name": "com.example.deeplink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIquVuqeQ5aUF5UF_9-AT7UzrUKIiYpeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
