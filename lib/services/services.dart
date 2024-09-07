@@ -3,7 +3,8 @@ import 'package:deeplink/services/context_utility.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:uni_links2/uni_links.dart';
+import 'package:uni_links3/uni_links.dart';
+
 
 class UniServices {
   static String _code = "";
